@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max",
+    "price": 120,
+    "image": "https://i.pinimg.com/736x/fd/34/9a/fd349a7d870be054482ed682740d9b36.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "price": 150,
+    "image": "https://i.pinimg.com/736x/1d/fd/5b/1dfd5beb3f94d5b5908c1ba5f67c073a.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Puma Runner",
+    "price": 90,
+    "image": "https://i.pinimg.com/736x/3a/a3/f8/3aa3f8596cfa6ff0a789ece10a45a427.jpg"
+  },
+  {
+    "id": 4,
+    "name": "New Balance 574",
+    "price": 110,
+    "image": "https://i.pinimg.com/1200x/64/52/47/6452477d5423d21dd64890622b0a21cf.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nike Air Force 1",
+    "price": 130,
+    "image": "https://i.pinimg.com/736x/3f/df/27/3fdf277ba0e5f910174433f4411ca4cf.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Adidas Superstar",
+    "price": 100,
+    "image": "https://i.pinimg.com/1200x/36/a5/36/36a53622ec35efa4071e8b2dda2d14e2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Puma Suede Classic",
+    "price": 85,
+    "image": "https://i.pinimg.com/1200x/dd/f7/01/ddf701194b4df1906d3c36c4688e6d18.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nike Dunk Low",
+    "price": 140,
+    "image": "https://i.pinimg.com/736x/da/d2/bb/dad2bb14385beed92f5631c634722dce.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Adidas Forum Low",
+    "price": 115,
+    "image": "https://i.pinimg.com/736x/57/45/ed/5745ed2f50c54512f675c5e844d9d157.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Converse Chuck Taylor",
+    "price": 75,
+    "image": "https://i.pinimg.com/736x/f0/f5/39/f0f53985860e33188c1c855bb4f34408.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vans Old Skool",
+    "price": 80,
+    "image": "https://i.pinimg.com/736x/75/9d/0b/759d0b0ec4095ac0725fcc5738a105a2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Reebok Classic",
+    "price": 95,
+    "image": "https://i.pinimg.com/1200x/a4/d8/f7/a4d8f761b54994fd5584a0ff57112f71.jpg"
+  }
+]
