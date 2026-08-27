@@ -39,8 +39,7 @@ export function CartProvider({ children }) {
     const decrement = (id) => {
         setCart((prevcart) =>
             prevcart.map((item) =>
-                item.id == id ? { ...item, quantity: item.quantity - 1 } : item).filter((item)=>item.quantity>=
-        0));
+                item.id == id ? { ...item, quantity: item.quantity - 1 } : item).filter((item)=>item.quantity>=0));
 
 
     }

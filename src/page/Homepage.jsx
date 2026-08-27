@@ -9,7 +9,7 @@ function Homepage() {
     const {addTocart}=useCart();
 
     useEffect(() => {
-        fetch("../public/Data/Shose.json")
+        fetch("https://chhorntola2244-arch.github.io/shose_api/")
             .then((res) => res.json())
             .then((Data) => {
                 setShoes(Data)

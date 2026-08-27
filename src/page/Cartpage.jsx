@@ -16,7 +16,7 @@ function Cartpage() {
                 <div className='lg:col-span-2 space-y-3 '>
                     {cart.map((item) => (
 
-                        <div key={item.id} className='bg-white shadow-lg rounded-xl ml-3  flex w-3xl'>
+                        <div key={item.id} className='bg-white shadow-lg rounded-xl ml-3   flex w-3xl'>
                             <img className=' rounded-xl w-30 h-30 mt-3' src={item.image} alt="" />
                             <div className='mt-3 ml-3'>
                                 <h2 className='text-xl font-bold'>{item.name}</h2>
